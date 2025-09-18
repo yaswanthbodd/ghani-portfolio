@@ -25,7 +25,7 @@ export const Navbar = ({mode, setMode}) => {
                     component='div' 
                     fontWeight='700'
                     sx={{flexGrow : 1}}
-                    >Yaswanth</Typography>
+                    >Shaik Abdulghani</Typography>
                     <Stack direction='row' spacing={2} sx={{ display : { xs : 'none' , sm : 'none' , md : 'flex'}}}>
                         <Link to="heroDisplay" smooth={true} duration={1500}>
                             <Button color="inherit" startIcon={<HomeIcon />}>Home</Button>
